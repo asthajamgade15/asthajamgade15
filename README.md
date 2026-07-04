@@ -58,7 +58,7 @@ End-to-end EDA and time-series analysis on a global COVID-19 dataset using Pytho
 </td>
 <td width="50%">
 
-**🗄️ SQL Relational Database Design & Analysis**  
+**🗄️ [SQL Relational Database Design & Analysis](https://github.com/asthajamgade15/sql-relational-database-analysis)**  
 Designed a relational database from scratch with multi-table queries (JOINs, constraints) to generate business performance reports.  
 `SQL` `T-SQL` `MySQL`
 
@@ -74,7 +74,7 @@ Built dynamic KPI dashboards using Pivot Tables, Power Query, and advanced formu
 </td>
 <td width="50%">
 
-**🐍 Python Programming & Data Structures**  
+**🐍 [Python Programming & Data Structures](https://github.com/asthajamgade15/python-programming-fundamentals)**  
 Python programs covering data types, lambda functions, list comprehension, and NumPy-based statistical computations.  
 `Python` `NumPy`
 
