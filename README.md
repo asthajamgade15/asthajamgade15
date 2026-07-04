@@ -67,7 +67,7 @@ Designed a relational database from scratch with multi-table queries (JOINs, con
 <tr>
 <td width="50%">
 
-**📈 KPI Dashboard Development — MS Excel**  
+**📈 [KPI Dashboard Development — MS Excel](https://github.com/asthajamgade15/kpi-dashboard-excel)**  
 Built dynamic KPI dashboards using Pivot Tables, Power Query, and advanced formulas for business-ready reporting.  
 `Excel` `Power Query` `Pivot Tables`
 
